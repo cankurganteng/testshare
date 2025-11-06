@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Produk A",
+        "image": "images/gambar1.png",
+        "description": "Deskripsi lengkap produk A. Ini adalah produk berkualitas tinggi dengan fitur unggulan."
+    },
+    {
+        "id": 2,
+        "name": "Produk B",
+        "image": "images/gambar2.png",
+        "description": "Deskripsi lengkap produk B. Cocok untuk kebutuhan sehari-hari."
+    },
+    {
+        "id": 3,
+        "name": "Produk C",
+        "image": "images/gambar3.png",
+        "description": "Deskripsi lengkap produk C. Inovatif dan tahan lama."
+    }
+]
